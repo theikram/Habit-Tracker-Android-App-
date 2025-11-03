@@ -1,11 +1,6 @@
-# Habit-Tracker-Android-App-
-Habit Tracker Android App Using Flutter
-
----
-
 # 📱 Habit Tracker App
 
-A simple yet elegant Flutter-based mobile application designed to help users track and manage their daily habits efficiently. The app allows users to sign up, log in, add habits, view their progress, and mark habits as done or undone.
+A simple Flutter-based mobile application designed to help users track and manage their daily habits efficiently. The app allows users to sign up, log in, add habits, view their progress, and mark habits as done or undone.
 
 ---
 
